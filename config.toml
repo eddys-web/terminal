@@ -1,4 +1,4 @@
-baseurl = "/term/"
+baseurl = "/terminal/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
